@@ -1,0 +1,92 @@
+<resources>
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+    <string name="app_name">Guitar Gravity</string>
+    <string name="guitar_name">Guitar Name</string>
+    <string name="price">Price</string>
+    <string name="a_guitar_photo">A Guitar Photo</string>
+    <string name="guitar_maker">Guitar Maker</string>
+    <string name="read_more">Read More</string>
+    <string name="a_guitar_detail">A Guitar Detail</string>
+    <string name="nil_description">Guitars in the LTD 1000 Series are designed to offer the tone, feel, looks and quality that working professional musicians require in an instrument. The LTD Deluxe M-1000 is now available with an alder body and a burled poplar top in Purple Natural Burst finish. Like many M Series models, the updated M-1000 is a shredder’s dream come true. It’s a neck-thru-body design with an extra-thin U-shaped 3-piece maple neck and Macassar ebony fingerboard. For a little extra speed and comfort, it has a natural satin finish on the back of the neck. The M-1000 includes an EMG 57TW/66TW pickup set with push-pull controls on both volume and tone to split each pickup discretely. It also includes Grover tuners and a Floyd Rose 1000SE tremolo with stainless steel screws for excellent stability and longterm reliability.</string>
+    <string name="share_this">Share This</string>
+    <string name="action_profile">Action Profile</string>
+    <string name="author">M. Haikel Oksama</string>
+    <string name="author_email">haikel.oksama@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>M-1000</item>
+        <item>Mark Tremonti Sign</item>
+        <item>Les Paul Classic</item>
+        <item>American Ultra</item>
+        <item>70 Telecaster</item>
+        <item>V-II FR</item>
+        <item>Horizon-II</item>
+        <item>RR24–7 Pro</item>
+        <item>60 Jazzmaster</item>
+        <item>MCCarty 594</item>
+    </string-array>
+    <string-array name="data_maker">
+        <item>ESP LTD</item>
+        <item>PRS</item>
+        <item>Gibson</item>
+        <item>Fender</item>
+        <item>Fender</item>
+        <item>ESP USA</item>
+        <item>ESP USA</item>
+        <item>Jackson</item>
+        <item>Fender</item>
+        <item>PRS</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Guitars in the LTD 1000 Series are designed to offer the tone, feel, looks and quality that working professional musicians require in an instrument. The LTD Deluxe M-1000 is now available with an alder body and a burled poplar top in Purple Natural Burst finish. Like many M Series models, the updated M-1000 is a shredder’s dream come true. It’s a neck-thru-body design with an extra-thin U-shaped 3-piece maple neck and Macassar ebony fingerboard. For a little extra speed and comfort, it has a natural satin finish on the back of the neck. The M-1000 includes an EMG 57TW/66TW pickup set with push-pull controls on both volume and tone to split each pickup discretely. It also includes Grover tuners and a Floyd Rose 1000SE tremolo with stainless steel screws for excellent stability and longterm reliability.</item>
+        <item>Mark Tremonti is one of rock’s leading guitarists. As the guitarist of Alter Bridge and Creed, he has met extraordinary success and continues to grow as both a guitar player and songwriter. While Creed was on tour in support of their first record, My Own Prison, Mark was contacted by PRS and asked if he would like to try one of their guitars.Mark Tremonti began to collaborate with PRS on his dream guitar that would soon become the Mark Tremonti Signature. He needed pickups that were a little more aggressive and could complement his rhythm playing which contains a lot of palm muting. The neck of the guitar needed to accommodate his style, influenced by thrash metal, shred, and traditional blues. PRS met these needs with the Pattern Thin neck carve.</item>
+        <item>The Gibson Les Paul™ Classic combines the early 60s style Les Paul model with some functional and time-tested modifications. As expected, the Les Paul Classic is crafted with a mahogany back and maple top coupled with a SlimTaper™ mahogany neck and a bound, rosewood fingerboard. 60s Burstbucker™ zebra, open-coil pickups provide classic Gibson tones from the era with a bit of extra punch thanks to the open coils. The control assembly features 4 push-pull pots, which provide choices of coil tapping, phase switching, and Pure Bypassing for functional and versatile sonic variety.</item>
+        <item>American Ultra is our most advanced series of guitars and basses for discerning players who demand the ultimate in precision, performance and tone. The American Ultra Stratocaster features a unique "Modern D" neck profile with Ultra rolled fingerboard edges for hours of playing comfort, and the tapered neck heel allows easy access to the highest register. A speedy 10"-14" compound-radius fingerboard with 22 medium-jumbo frets means effortless and accurate soloing, while the Ultra Noiseless™ Vintage pickups and advanced wiring options provide endless tonal possibilities - without hum. The sculpted rear body contours are as beautiful as they are functional and the S-1 switch adds the neck pickup in to any switch position. This versatile, state-of-the-art instrument will inspire you to push your playing to new heights.\nOther features include sealed locking tuning machines, chrome hardware and bone nut. Includes premium molded hardshell case.</item>
+        <item>For players who want the style and sound of Fender’s golden era, we created the Vintera® ‘70s Telecaster® Deluxe. Equipped with the coveted features that defined the decade—including period-accurate neck profile and playing feel, along with re-voiced pickups—this guitar has all of the authentic bite and twang that made the Telecaster a legend.</item>
+        <item>Crafted at our ESP USA facility in Southern California, the USA V-II FR takes the aggressive offset V shape to an entire new level of quality and playability. Built with neck-thru-body construction for the ultimate in sustain, it offers an extra-thin U-shaped three-piece maple neck with mahogany wings and optional premier-quality figured-wood tops, including flamed maple and quilted maple with a variety of amazing translucent gloss and satin finishes to choose from. The USA V-II FR includes an ebony fingerboard with offset abalone dot inlays. he parts and components on the USA V-II FR are second to none, and include 24 extra-jumbo Jescar stainless steel frets, an Original Floyd Rose floating tremolo, Gotoh Magnum Lock tuners, Dunlop strap locks, and a variety of high-end Seymour Duncan, EMG or Fishman pickups, with a push-pull coil split control on the tone knob for passive pickup models. </item>
+        <item>Crafted at our ESP USA facility in Southern California, the USA Horizon-II gives you a premium-quality version of the ESP Horizon with a wide variety of personalization options. It pairs a carved-topped mahogany body with a set-thru three-piece maple neck at 25.5” scale, thin U-shaped for comfort and speed, and includes an ebony fingerboard with 24 extra-jumbo Jescar stainless steel frets and abalone offset block inlays. Its neck, and headstock are all fully bound. Like other ESP USA models, the USA Horizon-II is available with optional flamed maple and quilted maple tops and your choice of dozens of gloss and satin translucent finishes to allow the figured wood grain to be highlighted (and plain maple caps for solid color finishes).We only use the finest components with ESP USA guitar models, and the USA Horizon-II features Gotoh Magnum Lock tuners, a TonePros locking TOM bridge with string-thru-body design for excellent sustain and resonance, Dunlop strap locks, and a graphite nut. You can specify the pickups you want on your USA Horizon-II, with multiple choices of Seymour Duncan (passive), EMG (active) and Fishman (active) pickup models</item>
+        <item>The Jackson Pro Series Signature Mark Heylmun RR24–7 is a premium guitar designed for progressive metal players seeking precision and accuracy. Crafted in partnership with Suicide Silence guitarist Mark Heylmun, it boasts a 26.5" scale, Nyatoh body, through-body maple neck with graphite reinforcement, and 12˝-16˝ compound radius bound ebony fingerboard with 24 jumbo frets. The active Fishman® Fluence® Modern PRF-MH7 humbucking bridge and neck pickups, three-way toggle switch, single volume control, and push/pull voice activation provide a range of tonal options. The Floyd Rose® 1000 series bridge ensures excellent tuning stability, while the Gloss Black finish with reverse 7-in line color matched Jackson headstock and gold hardware looks stunning.</item>
+        <item>For players who want the style and sound of Fender’s golden era, we created the Vintera® ‘60s Jazzmaster®. Equipped with the coveted features that defined the decade—including period-accurate neck profile and playing feel, along with re-voiced pickups—this guitar has all of the warm, smooth sound that made the Jazzmaster a legend.For authentic, vintage-style tone we re-voiced the pair of wide single-coil Jazzmaster pickups to behave more like the originals. The warm, smooth-sounding neck pickup is balanced by the bright, cutting bridge pickup. The Mid 60s C-shaped neck has a classy painted headstock, along with a 7.25-radius maple fingerboard with 21 vintage-style frets for classic feel.</item>
+        <item>The McCarty 594 is a versatile, vintage-inspired instrument that is effortlessly playable. Featuring a bound 22-fret Pattern Vintage neck and slightly thicker back for more enhanced tone and sustain, the McCarty 594 plays in tune, is intonated the entire length of the neck, and feels like a guitar you’ve been playing forever. Whether you are looking for rich, authentic humbucking tones or nuanced, sweet single-coil sounds, the McCarty 594 can seamlessly master both sonic territories thanks to its 58/15 LT pickups, which have now been through the TCI (tuned capacitance and inductance) process, and dual volume and push/pull tone controls. A zinc two-piece bridge and vintage-style tuners anchor this guitar and stay true to the promise of the McCarty family.</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>$700</item>
+        <item>$6400</item>
+        <item>$2500</item>
+        <item>$1400</item>
+        <item>$900</item>
+        <item>$4000</item>
+        <item>$3800</item>
+        <item>$1800</item>
+        <item>$1000</item>
+        <item>$5900</item>
+    </string-array>
+    <string-array name="data_picture">
+        <item>https://cdn.connectsites.net/user_files/esp/product_images/000/027/839/original.png?1610245150</item>
+        <item>https://d2zap0z9ahyacn.cloudfront.net/eyJidWNrZXQiOiJwcnNpbWFnZXMiLCJrZXkiOiJndWl0YXItaW1hZ2VzL21hcmstdHJlbW9udGktMjAyMy1maXJlLXNtb2tlYnVyc3QuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0Ijo2NjMsImZpdCI6ImNvdmVyIn0sInNoYXJwZW4iOnRydWV9fQ==</item>
+        <item>https://images.ctfassets.net/m8onsx4mm13s/6yZl6ePLrliuDz54DRBpai/876b572767eb31fdeaaf1f4b1f8b5846/__static.gibson.com_product-images_USA_USAI9Q269_Translucent_Cherry_front-banner-640_480.png?h=550</item>
+        <item>https://www.fmicassets.com/Damroot/ZoomJpg/10001/0118012795_gtr_frt_001_rr.jpg</item>
+        <item>https://www.fmicassets.com/Damroot/LgJpg/10001/0149812300_gtr_frt_001_rr.jpg</item>
+        <item>https://cdn.connectsites.net/user_files/esp/site_assets/000/029/289/original.png?1558641133</item>
+        <item>https://cdn.connectsites.net/user_files/esp/site_assets/000/036/705/original.png?1593630924</item>
+        <item>https://www.fmicassets.com/Damroot/xLg/10002/2916787503_jac_ins_frt_1_rr.png</item>
+        <item>https://www.fmicassets.com/Damroot/LgJpg/10001/0149753305_gtr_frt_001_rr.jpg</item>
+        <item>https://d2zap0z9ahyacn.cloudfront.net/eyJidWNrZXQiOiJwcnNpbWFnZXMiLCJrZXkiOiJndWl0YXItaW1hZ2VzL01jQ2FydHktNTk0LTIwMjItWWVsbG93LVRpZ2VyLmpwZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODIsInByb2dyZXNzaXZlIjp0cnVlLCJ0cmVsbGlzUXVhbnRpc2F0aW9uIjp0cnVlLCJvdmVyc2hvb3REZXJpbmdpbmciOnRydWUsIm9wdGltaXplU2NhbnMiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjE5MjAsImhlaWdodCI6NjYzLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=</item>
+    </string-array>
+    <integer-array name="data_is_fav">
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+</resources>
